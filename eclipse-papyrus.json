@@ -1,0 +1,19 @@
+{
+    "version": "2020-12-5.0.0",
+    "description": "Eclipse Papyrus",
+    "homepage": "https://www.eclipse.org",
+    "license": "EPL-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://download.eclipse.org/modeling/mdt/papyrus/rcp/2020-12/5.0.0/papyrus-2020-12-5.0.0-win64.zip",
+            "hash": "sha512:685cdda8e8cfe07612ef4a885183079977499894bb666f48c7104d9140b32700c672079a4fc643da6d7f53d2dae44644efed88f2867d6f3e81274eda20fecaa8"
+        }
+    },
+    "extract_dir": "Papyrus",
+    "shortcuts": [
+        [
+            "papyrus.exe",
+            "Eclipse Papyrus"
+        ]
+    ]
+}
